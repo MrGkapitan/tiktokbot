@@ -1,4 +1,2 @@
+python-telegram-bot
 requests
-discord.py
-python-dotenv
-pytiktok
