@@ -6,7 +6,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Updater, CommandHandler, CallbackContext, CallbackQueryHandler, MessageHandler, Filters
 from tiktok_checker import is_live
 
-TOKEN = "8452378259:AAHTNM7C7GJDXKSNcN6hzG-iypRp6ZnyE_M"
+TOKEN = "ahahah FUCK you SHITI MOM your Nigga scammer"
 DATA_FILE = "data.json"
 CHECK_INTERVAL = 1
 
@@ -197,3 +197,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
